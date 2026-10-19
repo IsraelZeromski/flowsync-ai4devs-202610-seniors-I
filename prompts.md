@@ -18,8 +18,8 @@ distinto, y sin este archivo no se distinguen.
 
 ---
 
-<!-- TODO: faltan los prompts con los que se montó el harness (piezas 1-8) y los de la copia
-sin harness. No están en esta sesión: pégalos tal cual se lanzaron, en su orden. -->
+<!-- TODO: faltan los prompts con los que se montó el harness (piezas 1-8). No están en esta sesión:
+pégalos tal cual se lanzaron, en su orden. -->
 
 ## Copia con harness
 
@@ -78,4 +78,44 @@ hacelo pero antes completa el promps.md segun las reglas definidas y hace la com
 
 ## Copia sin harness
 
-<!-- TODO: pegar aquí los prompts lanzados en flowsync-ai4devs-202610-seniors-I-sin-harness. -->
+## Prompt 1
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+/init
+```
+
+**Qué salió:** avisó de que esta es la copia sin harness y que el README dice que no se toca; respondí «Write it here anyway» y generó `CLAUDE.md`.
+
+## Prompt 2
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code (plan mode activado con `/plan`)
+
+```
+crea un plan para implementar el ticket de jira
+```
+
+**Qué salió:** encontró solo FLOW-1 («Enlace de navegación entre login y registro», en «En curso») y preguntó el alcance; elegí «FLOW-1 + lo mínimo» (los enlaces más las pantallas de login y registro básicas con routing). Aprobé el plan, que quedó en `~/.claude/plans/crea-un-plan-para-lively-swing.md`.
+
+## Prompt 3
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+donde creaste el plam?
+```
+
+**Qué salió:** el plan estaba en `~/.claude/plans/`, fuera del repo.
+
+## Prompt 4
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+copialo en  docs/sin-harness/
+```
