@@ -24,3 +24,6 @@ coverage/
 .DS_Store
 .vscode/
 .idea/
+.claude/settings.json
+
+backend/.adonisjs/*
