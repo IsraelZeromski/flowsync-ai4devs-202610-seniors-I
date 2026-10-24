@@ -20,7 +20,7 @@ distinto, y sin este archivo no se distinguen.
 
 ## Prompt 1
 
-**Modelo:** _(rellenar)_
+**Modelo:** Opus 5.5 (1M context) - medium
 **Herramienta:** Claude Code en un proyecto de claude.ai (hilo lanzado desde la tarjeta de propuesta del proyecto)
 
 ```
@@ -33,7 +33,7 @@ Read the Module 2 instructions on s2/start. Create branch alcance-IAZ and draft 
 
 ## Prompt 2
 
-**Modelo:** _(rellenar)_
+**Modelo:** Opus 5.5 (1M context) - medium
 **Herramienta:** Claude Code en un proyecto de claude.ai (mismo hilo)
 
 ```
@@ -44,7 +44,7 @@ me da la sensación que el alcance es muy escueto. Si nos centramo en rapidez es
 
 ## Prompt 3
 
-**Modelo:** _(rellenar)_
+**Modelo:** Opus 5.5 (1M context) - medium
 **Herramienta:** Claude Code en un proyecto de claude.ai (mismo hilo)
 
 ```
