@@ -279,7 +279,7 @@ La aplicación SHALL cerrar la sesión local al pulsar "Cerrar sesión", aunque 
 ## 1. Requisitos escritos y comprobados
 
 - **Escritos por el agente:** 32
-- **Comprobados abriendo el código:** TODO
+- **Comprobados abriendo el código:** 5
 
 ## 2. Incoherencias que aparecieron al escribirla
 
