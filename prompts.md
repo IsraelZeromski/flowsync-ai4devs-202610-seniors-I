@@ -75,3 +75,39 @@ si
 ```
 dale
 ```
+
+## Prompt 7
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+la parte  Parte B: la completaste?
+```
+
+## Prompt 8
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+1. pense que estaban los 3 cubiertos
+```
+
+## Prompt 9
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+2.  Responsable sin nombre. las iniciales se sacan del nombre pero si no lo registro estaran vacias
+```
+
+## Prompt 10
+
+**Modelo:** Opus 5.5
+**Herramienta:** Claude Code
+
+```
+dale. agrega tu propuesta
+```
